@@ -1,10 +1,10 @@
-package in.prnitin.microservices.core.recommendation.recommendationservice;
+package in.prnitin.microservices.core.composite;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RecommendationServiceApplicationTests {
+class CompositeServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

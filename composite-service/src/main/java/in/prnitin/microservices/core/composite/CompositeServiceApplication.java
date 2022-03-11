@@ -1,4 +1,4 @@
-package in.prnitin.microservices.core.composite.compositeservice;
+package in.prnitin.microservices.core.composite;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
